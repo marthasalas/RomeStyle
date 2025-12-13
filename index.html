@@ -3,50 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> RomeStyle - Tienda de Calzado</title>
   <link rel="stylesheet" href="Style.css">
+  <link rel="stylesheet" href="benefic.css">
+  <link rel="stylesheet" href="form.css">
+ 
+  
+  <title> RomeStyle - Tienda de Calzado</title>
 
 </head>
 <body>
 
   <header>
     <h1>Rome Style</h1>
-    <p>Calzados para Damas, Caballeros y Niños</p>
+    <p>Calzados para Deportivos</p>
   </header>
 
-  <div class="container">
 
-    <!-- PRODUCTO 1 -->
-    <section class="product-card">
-      <img src="../RomeStyle/Imagenes/" alt="Producto Rome Style">
-      <h2> Tenis</h2>
-      <p class="price">$150.000 COP</p>
-      <a class="btn" href="#ordenar">Comprar Ahora</a>
-    </section>
+    
+  <div class="carousel">
+  <button class="carousel-btn prev">❮</button>
 
-        <!-- PRODUCTO 2 -->
-    <section class="product-card">
-      <img src="../RomeStyle/Imagenes/" alt="Producto Rome Style">
-      <h2> Tenis</h2>
-      <p class="price">$150.000 COP</p>
-      <a class="btn" href="#ordenar">Comprar Ahora</a>
-    </section>
+  <div class="carousel-viewport">
+    <div class="carousel-track" id="productos-container"></div>
+  </div>
 
-        <!-- PRODUCTO 3 -->
-    <section class="product-card">
-      <img src="../RomeStyle/Imagenes/" alt="Producto Rome Style">
-      <h2> Tenis</h2>
-      <p class="price">$150.000 COP</p>
-      <a class="btn" href="#ordenar">Comprar Ahora</a>
-    </section>
+  <button class="carousel-btn next">❯</button>
+</div>
 
-        <!-- PRODUCTO 4 -->
-    <section class="product-card">
-      <img src="../RomeStyle/Imagenes/" alt="Producto Rome Style">
-      <h2> Tenis</h2>
-      <p class="price">$150.000 COP</p>
-      <a class="btn" href="#ordenar">Comprar Ahora</a>
-    </section>
+
+
+   
+
+      
 
     <!-- BENEFICIOS -->
     <section class="benefits">
@@ -77,6 +65,7 @@
   <footer>
     © 2025 Rome Style - Todos los derechos reservados
   </footer>
-
+   <script src="script.js"></script>
+  
 </body>
 </html>
