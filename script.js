@@ -1,6 +1,6 @@
 const productos = [
   {
-    nombre: "CH",
+    nombre: "Tenis Carolina Herrera",
     precio: "120.000",
     imagen: "../ROMESTYLE/Imagenes/CH.JPEG",
     descripcion: "Confort y estilo para tus carreras. Materiales premium."
@@ -12,7 +12,7 @@ const productos = [
     descripcion: "El tenis ideal para dia casual."
   },
   {
-    nombre: "Calvin Klain",
+    nombre: "Calvin Klein",
     precio: "150.000",
     imagen: "../ROMESTYLE/Imagenes/CK.JPEG",
     descripcion: "Diseño moderno para uso diario, cómodo y versátil."
