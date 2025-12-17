@@ -1,27 +1,39 @@
 const productos = [
   {
-    nombre: "Tenis Running X",
-    precio: "150.000",
-    imagen: "../RomeStyle/Imagenes/zapatos 1.jpg",
+    nombre: "CH",
+    precio: "120.000",
+    imagen: "../ROMESTYLE/Imagenes/CH.JPEG",
     descripcion: "Confort y estilo para tus carreras. Materiales premium."
   },
   {
-    nombre: "Tenis Sport 5000",
-    precio: "150.000",
-    imagen: "../RomeStyle/Imagenes/tenis2.jpg",
-    descripcion: "El tenis ideal para entrenamientos con alto desempeño."
+    nombre: "Tenis Boss",
+    precio: "140.000",
+    imagen: "../ROMESTYLE/Imagenes/BOSS.JPEG",
+    descripcion: "El tenis ideal para dia casual."
   },
   {
-    nombre: "Tenis Urban Style",
+    nombre: "Calvin Klain",
     precio: "150.000",
-    imagen: "../RomeStyle/Imagenes/tenis3.jpg",
+    imagen: "../ROMESTYLE/Imagenes/CK.JPEG",
     descripcion: "Diseño moderno para uso diario, cómodo y versátil."
   },
   {
-    nombre: "Tenis Performance",
-    precio: "150.000",
-    imagen: "../RomeStyle/Imagenes/tenis4.jpg",
+    nombre: "Tommy",
+    precio: "180.000",
+    imagen: "../ROMESTYLE/Imagenes/TOMMY.JPEG",
     descripcion: "Optimiza tu rendimiento con tecnología avanzada."
+  },
+  {
+    nombre: "Louis Vuitton",
+    precio: "135.000",
+    imagen: "../ROMESTYLE/Imagenes/VL.JPEG",
+    descripcion: "Estilo urbano con comodidad para el día a día."
+  },
+  {
+    nombre: "luis Vuitton Deportivos",
+    precio: "160.000",
+    imagen: "../ROMESTYLE/Imagenes/LV2.JPEG",
+    descripcion: "Diseño innovador para un rendimiento superior."
   }
 ];
 
