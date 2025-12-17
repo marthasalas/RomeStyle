@@ -88,7 +88,7 @@ header p {
   display: inline-block;
   margin-top: 15px;
   padding: 12px 26px;
-  background: linear-gradient(135deg, #000, #444);
+  background: linear-gradient(135deg, #7807b9, #000);
   color: #fff;
   text-decoration: none;
   border-radius: 30px;
@@ -97,7 +97,7 @@ header p {
 }
 
 .btn:hover {
-  background: linear-gradient(135deg, #111, #000);
+  background: linear-gradient(135deg, #7807b9, #000);
   transform: translateY(-2px);
 }
 
@@ -145,7 +145,7 @@ header p {
 footer {
   text-align: center;
   padding: 25px;
-  background: #4A0085;
+  background: linear-gradient(135deg, #7807b9, #222);
   color: white;
   margin-top: 60px;
 }
