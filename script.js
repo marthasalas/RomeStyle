@@ -34,6 +34,12 @@ const productos = [
     precio: "160.000",
     imagen: "../ROMESTYLE/Imagenes/LV2.JPEG",
     descripcion: "Diseño innovador para un rendimiento superior."
+  },
+  {
+    nombre: "Adidas",
+    precio: "130.000",
+    imagen: "../ROMESTYLE/Imagenes/zapatos1.jpg",
+    descripcion: "Comodidad y estilo para cualquier ocasión."
   }
 ];
 
