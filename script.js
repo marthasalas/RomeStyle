@@ -2,43 +2,43 @@ const productos = [
   {
     nombre: "Tenis Carolina Herrera",
     precio: "120.000",
-    imagen: "../ROMESTYLE/Imagenes/CH.JPEG",
+    imagen: "../RomeStyle/Imagenes/CH.JPEG",
     descripcion: "Confort y estilo para tus carreras. Materiales premium."
   },
   {
     nombre: "Tenis Boss",
     precio: "140.000",
-    imagen: "../ROMESTYLE/Imagenes/BOSS.JPEG",
+    imagen: "../RomeStyle/Imagenes/BOSS.JPEG",
     descripcion: "El tenis ideal para dia casual."
   },
   {
     nombre: "Calvin Klein",
     precio: "150.000",
-    imagen: "../ROMESTYLE/Imagenes/CK.JPEG",
+    imagen: "../RomeStyle/Imagenes/CK.JPEG",
     descripcion: "Diseño moderno para uso diario, cómodo y versátil."
   },
   {
     nombre: "Tommy",
     precio: "180.000",
-    imagen: "../ROMESTYLE/Imagenes/TOMMY.JPEG",
+    imagen: "../RomeStyle/Imagenes/TOMMY.JPEG",
     descripcion: "Optimiza tu rendimiento con tecnología avanzada."
   },
   {
     nombre: "Louis Vuitton",
     precio: "135.000",
-    imagen: "../ROMESTYLE/Imagenes/VL.JPEG",
+    imagen: "../RomeStyle/Imagenes/VL.JPEG",
     descripcion: "Estilo urbano con comodidad para el día a día."
   },
   {
     nombre: "luis Vuitton Deportivos",
     precio: "160.000",
-    imagen: "../ROMESTYLE/Imagenes/LV2.JPEG",
+    imagen: "../RomeStyle/Imagenes/LV2.JPEG",
     descripcion: "Diseño innovador para un rendimiento superior."
   },
   {
     nombre: "Adidas",
     precio: "130.000",
-    imagen: "../ROMESTYLE/Imagenes/zapatos1.jpg",
+    imagen: "../RomeStyle/Imagenes/zapatos1.jpg",
     descripcion: "Comodidad y estilo para cualquier ocasión."
   }
 ];
