@@ -10,7 +10,7 @@
 header {
   text-align: center;
   padding: 50px 20px;
-  background: linear-gradient(135deg, #3669d8, #93a5e2);
+  background: linear-gradient(180deg, #2b27f3, #8665ea);
   color: #fff;
 }
 
@@ -80,7 +80,7 @@ header p {
 
 .description {
   font-size: 14px;
-  color: #3669d8;
+  color: #000;
 }
 
 /* ===== BOTÓN COMPRAR ===== */
@@ -88,7 +88,7 @@ header p {
   display: inline-block;
   margin-top: 15px;
   padding: 12px 26px;
-  background: linear-gradient(135deg, #3669d8, #020c2c);
+  background: linear-gradient(135deg, #01040c, #2a2e3d);
   color: #fff;
   text-decoration: none;
   border-radius: 30px;
@@ -97,7 +97,7 @@ header p {
 }
 
 .btn:hover {
-  background: linear-gradient(135deg, #3669d8, #020c2c);
+  background: linear-gradient(135deg, #01040c, #2a2e3d);
   transform: translateY(-2px);
 }
 
@@ -135,7 +135,7 @@ header p {
 }
 
 .carousel-btn:hover {
-  background:#3669d8;
+  background:#000;
   transform: translateY(-50%) scale(1.2);
 }
 
@@ -145,7 +145,7 @@ header p {
 footer {
   text-align: center;
   padding: 25px;
-  background: linear-gradient(135deg, #3669d8, #93a5e2);
+  background: linear-gradient(180deg, #2b27f3, #8665ea);
   color: white;
   margin-top: 60px;
 }
