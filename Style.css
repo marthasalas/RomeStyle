@@ -10,7 +10,7 @@
 header {
   text-align: center;
   padding: 50px 20px;
-  background: linear-gradient(135deg, #7807b9, #222);
+  background: linear-gradient(135deg, #3669d8, #93a5e2);
   color: #fff;
 }
 
@@ -45,7 +45,7 @@ header p {
 .product-card {
   min-width: 320px;
   margin: 15px;
-  background: linear-gradient(180deg, #ffffff, #f2f2f2);
+  background: linear-gradient(180deg, #2b27f3, #f2f2f2);
   border-radius: 22px;
   padding: 20px;
   color: #111;
@@ -74,13 +74,13 @@ header p {
 .price {
   font-size: 20px;
   font-weight: 700;
-  color: #000;
+  color:#3669d8;
   margin-bottom: 10px;
 }
 
 .description {
   font-size: 14px;
-  color: #555;
+  color: #3669d8;
 }
 
 /* ===== BOTÓN COMPRAR ===== */
@@ -88,7 +88,7 @@ header p {
   display: inline-block;
   margin-top: 15px;
   padding: 12px 26px;
-  background: linear-gradient(135deg, #7807b9, #000);
+  background: linear-gradient(135deg, #3669d8, #020c2c);
   color: #fff;
   text-decoration: none;
   border-radius: 30px;
@@ -97,7 +97,7 @@ header p {
 }
 
 .btn:hover {
-  background: linear-gradient(135deg, #7807b9, #000);
+  background: linear-gradient(135deg, #3669d8, #020c2c);
   transform: translateY(-2px);
 }
 
@@ -135,7 +135,7 @@ header p {
 }
 
 .carousel-btn:hover {
-  background: #000;
+  background:#3669d8;
   transform: translateY(-50%) scale(1.2);
 }
 
@@ -145,7 +145,7 @@ header p {
 footer {
   text-align: center;
   padding: 25px;
-  background: linear-gradient(135deg, #7807b9, #222);
+  background: linear-gradient(135deg, #3669d8, #93a5e2);
   color: white;
   margin-top: 60px;
 }
