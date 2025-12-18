@@ -10,8 +10,9 @@
 header {
   text-align: center;
   padding: 50px 20px;
-  background: linear-gradient(180deg, #2b27f3, #8665ea);
-  color: #fff;
+  background: -webkit-linear-gradient(90deg, #c8d9eb, #338fc2, #c5e1ec);
+  background: linear-gradient(90deg, #c8d9eb, #338fc2, #c5e1ec)
+  color: black;
 }
 
 header h1 {
@@ -74,7 +75,7 @@ header p {
 .price {
   font-size: 20px;
   font-weight: 700;
-  color:#3669d8;
+  color:#000;
   margin-bottom: 10px;
 }
 
