@@ -46,7 +46,7 @@ header p {
 .product-card {
   min-width: 320px;
   margin: 15px;
-  background:
+  background: whitesmoke;
   border-radius: 22px;
   padding: 20px;
   color: #111;
