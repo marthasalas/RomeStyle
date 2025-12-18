@@ -146,8 +146,9 @@ header p {
 footer {
   text-align: center;
   padding: 25px;
-  background: linear-gradient(180deg, #2b27f3, #8665ea);
-  color: white;
+  background: -webkit-linear-gradient(90deg, #c8d9eb, #338fc2, #c5e1ec);
+  background: linear-gradient(90deg, #c8d9eb, #338fc2, #c5e1ec);
+  color: black;
   margin-top: 60px;
 }
 
