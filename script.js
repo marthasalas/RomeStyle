@@ -32,7 +32,7 @@ const productos = [
   {
     nombre: "luis Vuitton Deportivos",
     precio: "160.000",
-    imagen: "../RomeStyle/Imagenes/LV2.jpg",
+    imagen: "../RomeStyle/Imagenes/LV-2.jpg",
     descripcion: "Diseño innovador para un rendimiento superior."
   },
   {
